@@ -1,1 +1,1 @@
-![Image](banner-git.png)
+![Image](banner-git-text.png)
